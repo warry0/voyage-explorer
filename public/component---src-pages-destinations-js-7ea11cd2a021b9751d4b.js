@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{"EXg+":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),s=n.n(a),i=n("Bl7J"),c=n("vrFN");n("8ypT");t.default=function(){return s.a.createElement(i.a,null,s.a.createElement(c.a,{title:"Destinations"}),s.a.createElement("h1",{className:"destinations"},"Destinations"))}}}]);
+//# sourceMappingURL=component---src-pages-destinations-js-7ea11cd2a021b9751d4b.js.map
