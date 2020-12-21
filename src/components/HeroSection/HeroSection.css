@@ -12,12 +12,14 @@
   }
   
   .hero-container > h1 {
+    text-align: center;
     color: #fff;
     font-size: 100px;
     margin-top: 0px;
   }
   
   .hero-container > p {
+    text-align: center;
     margin-top: 8px;
     color: #fff;
     font-size: 32px;

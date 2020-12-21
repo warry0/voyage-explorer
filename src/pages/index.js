@@ -1,5 +1,6 @@
 import React from "react"
 import HeroSection from "../components/HeroSection"
+import Image from "../components/image"
 
 import Layout from "../components/layout"
 
@@ -10,7 +11,9 @@ const IndexPage = () => (
     <SEO title="Accueil" />
 
     <HeroSection />
+    <Image />
   </Layout>
+
 )
 
 export default IndexPage
